@@ -1,4 +1,4 @@
-<img alt="JamesZesiger" src="./resources/github-powershell-banner.gif">
+<img alt="JamesZesiger" src="https://raw.githubusercontent.com/JamesZesiger/JamesZesiger/main/resources/github-powershell-banner.gif">
 
 <div align=center>
 
