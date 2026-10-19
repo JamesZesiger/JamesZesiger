@@ -30,5 +30,5 @@
 
 🌐[py] <b>HomeNet</b> — Personal home network running in docker containers serving Immich, PiHole, AudiobookShelf, custom dashboard and StreamDeck<br>
 📺[py] <b>StreamDeck</b> — Centralized collection of streaming services with movie/show lookup and deeplink to service.<br> 
-
+🐈[ts] <b>MiloCLI</b> — Custom CLI application combining Claude Code and Codex. Custom tools for dispatching interprovider agents.<br>
 </p>
